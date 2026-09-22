@@ -14,5 +14,7 @@
     "build": "tsc",
     "start": "node dist/server.js",
     "seed": "tsx src/scripts/seed.ts"
-  }
+  },
+  "name": "octofit-tracker-backend",
+  "private": true
 }
